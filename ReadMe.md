@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Bradley Botros<br><br>:round_pushpin: Located in Los Angeles<br><br>:school_satchel: A second year, studying Computer Science at Cal State University Fullerton<br><br>🤔 Interested in learning more about Machine Learning<br><br>[Linkedln:] (www.linkedin.com/in/bradley-botros-397292171)<br><br>:mortar_board: 2027<br>
+## Hi, I'm Bradley Botros<br><br>:round_pushpin: Located in Los Angeles<br><br>:school_satchel: A second year, studying Computer Science at Cal State University Fullerton<br><br>🤔 Interested in learning more about Machine Learning<br><br>
 
 
 ## 🌐 Socials:
@@ -15,10 +15,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BradleyB30&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=BradleyB30&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
