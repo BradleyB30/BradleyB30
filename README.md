@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Bradley Botros<br><br>:round_pushpin: Located in Los Angeles<br><br>:school_satchel: A second year, studying Computer Science at Cal State University Fullerton<br><br>🤔 Interested in learning more about Data<br><br>
+## Hi, I'm Bradley Botros<br><br>:round_pushpin: Located in Los Angeles<br><br>:school_satchel: A third year, studying Computer Science at Cal State University Fullerton<br><br>🤔 Interested in learning more about Data<br><br>
 
 
 ## 🌐 Socials:
